@@ -43,6 +43,12 @@
             <artifactId>spark-sql_2.12</artifactId>
             <version>3.0.0-preview</version>
         </dependency> <!-- tablesaw-core-->
+        <dependency>
+            <groupId>org.knowm.xchart</groupId>
+            <artifactId>xchart</artifactId>
+            <version>3.8.0</version>
+            <type>jar</type>
+        </dependency>
     </dependencies>
 
     <properties>
